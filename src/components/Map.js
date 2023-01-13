@@ -32,5 +32,5 @@ class Map extends Component {
     );
   }
 }
-
+dotenv.config();
 export default Map;
