@@ -1,0 +1,18 @@
+[
+  {
+    "id": "cafe",
+    "image": "../images/hotel.png"
+  },
+  {
+    "id": "hospital",
+    "image": "https://cdn-icons-png.flaticon.com/512/818/818217.png"
+  },
+  {
+    "id": "pharmacy",
+    "image": "https://cdn-icons-png.flaticon.com/512/201/201426.png"
+  },
+  {
+    "id": "restaurant",
+    "image": "https://cdn-icons-png.flaticon.com/512/201/201426.png"
+  }
+]
